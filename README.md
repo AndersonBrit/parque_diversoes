@@ -24,7 +24,7 @@ A base de dados foi desenvolvida em **MySQL** e serve como projeto académico e 
 ## 📂 Estrutura do Projeto
 
 ```
-parque-diversoes-db/
+parque_diversoes_db/
 │
 ├── assets/
 |   └── diagramas/                    → Diagramas da base de dados (ER / Relacional)
@@ -102,5 +102,6 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
 
 
