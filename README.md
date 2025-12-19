@@ -95,9 +95,10 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 **Escola:** Escola Profissional Bento Jesus Caraça (EPBJC)  
 **Disciplina:** PSI  
-**Autor:** Andérson Brito"
+**Autor:** Andérson Brito
 
 ---
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
