@@ -106,12 +106,12 @@ This project was developed for **academic and educational purposes**, as part of
 
 ## 👤 Author
 
-Project developed within the professional course
-**Management and Programming of Information Systems (GPSI)**
+Project developed within the professional course  
+**Management and Programming of Information Systems (GPSI)**  
 
-* **School:** Escola Profissional Bento Jesus Caraça (EPBJC)
-* **Subject:** PSI
-* **Author:** Andérson Brito
+* **School:** Escola Profissional Bento Jesus Caraça (EPBJC)  
+* **Subject:** PSI  
+* **Author:** Andérson Brito  
 
 ---
 
